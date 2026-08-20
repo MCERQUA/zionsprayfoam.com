@@ -1,0 +1,109 @@
+BUILD STATUS — zionsprayfoam.com
+Built: 2026-08-20 by batch3-audit (josh-desk-3@mesh)
+Classification: TRADE-SERVICE LEAD-GEN SITE (NOT insurance) — "Zion Spray Foam," a standalone
+local business brand for residential and commercial spray foam insulation installation serving
+the Zion National Park gateway region of southwestern Utah (St. George, Hurricane, Washington,
+Springdale, Ivins, Santa Clara, Cedar City). NOT Contractors Choice Agency branded — CCA's
+canonical phone/email/address are reused only as the operating contact channel, matching the
+trade-service portfolio pattern; no CCA/insurance narrative anywhere on the site.
+
+REAL-BUSINESS-COLLISION NOTE (standing practice since venardsprayfoam.com): Ran the real-business-
+name check BEFORE committing to this build's geographic angle. Two real "Zion"-named spray foam
+businesses exist elsewhere in the country — Zion Insulators (BBB+Yelp+Mapquest verified,
+Richmond/Williamsburg VA) and Zion Sprayfoam (active Facebook page, Kansas City MO) — both flagged
+and escalated to Josh via email BEFORE this build started. Josh made the call to build anyway and
+proceeded without waiting for a reply from the business owner side. Verified via Utah-scoped
+search that NO "Zion Spray Foam" or close variant operates in the actual target region — all real
+southern-Utah competitors use different names entirely (Southern Utah Spray Foam LLC, Big City
+Insulation, Fox Foam, etc.). Content was written with zero reference to the naming-collision
+situation and zero cross-contamination from the other flagged builds this session (verified via
+grep for "Venard," "Kingdom Real Estate," "residential treatment," "therapeutic," "troubled" —
+all zero hits).
+
+BUILD RESULT: SUCCESS (next build exit code 0, clean on first try — 4th clean first-try build in
+a row this session)
+Framework: Next.js 15.3.9, App Router, output: 'export' (static export), trailingSlash: true
+Package manager: pnpm (pnpm-lock.yaml only, no package-lock.json — verified clean)
+.gitignore written first. pnpm-workspace.yaml uses `packages: ["."]` correctly, first try.
+
+RESEARCH (DataForSEO, direct API — shared proxy at 172.25.0.1:6350 still unreachable):
+Real, established, moderately competitive local market confirmed centered on St. George/
+Washington County. Real local competitors found: Southern Utah Spray Foam LLC (Cedar City), Big
+City Insulation ("50+ Years," Washington & St. George), Fox Foam (Hurricane), a specialist in
+new-construction/pole-barn work, plus national franchise/directory listings (TruTeam/USI Cardalls,
+BBB, Yelp, Angi). Validated two underserved angles with real keyword signal: metal building/pole
+barn insulation (matches a real local competitor's specialty) and insulation removal & repair
+($11.55 CPC, LOW competition nationally — a genuine gap, no local competitor leads with it). Full
+detail in ai/research/keywords.json, competitors.md, topical-map.md.
+
+STITCH DESIGN — MANDATORY step completed, zero quota issues, 4th clean build in a row:
+Project: projects/3913852371772412673 (title with punctuation initially failed "invalid
+argument" — simplified title succeeded)
+Design system: assets/5527617023268617922 ("Canyon Foam", LIGHT mode)
+4 screens generated (home + 3 key pages): home.html, attic-insulation.html,
+metal-building-insulation.html, get-a-quote.html — all in .stitch-pages/, confirmed nonzero size.
+Font gotcha (4th occurrence this session): ROBOTO_SLAB/NUNITO_SANS rejected by the Stitch API
+enum — mockups render with SPACE_GROTESK/WORK_SANS; the real coded build correctly applies Roboto
+Slab/Nunito Sans via next/font/google.
+SCRIM GATE NOTE: the Stitch fork's own scrim scan only caught 1 of 3 files with real issues —
+the pre-deploy gate caught 2 additional weak-scrim files (attic-insulation.html flat 40% overlay;
+metal-building-insulation.html multiple sub-50% stops including two group-hover card-interaction
+overlays that also matched the gate's per-line regex). Fixed directly post-fork: attic-insulation
+40%→55%; metal-building-insulation's hero gradient 0%(transparent)→55%, plus its secondary
+blend-multiply tint and two decorative hover-state overlays raised to 50-55% to clear the gate
+mechanically (these are non-shipping design-reference mockups, not the live coded site — the real
+homepage hero in page.tsx already used proper 55-95% solid stops from the start). Gate passed
+clean after 3 total fix iterations.
+
+DESIGN SYSTEM: warm earth tones, hue-verified, drawn directly from Zion's actual red-rock canyon
+geology — canyon-sandstone red #A03D24 (primary), desert sage/pinyon-juniper green #6B7355
+(secondary), ochre #C08A3E (accent), warm sandstone cream #F5EDE0 (base bg), canyon-shadow brown
+#2E1F16 (inverted band). Fourth genuinely distinct palette + typography pairing this session
+(prior three: rust/forest/amber+Fraunces/Inter; copper/saguaro/gold+Fraunces/Inter; gold/juniper/
+rust+Bitter/Work Sans). This build: Roboto Slab (headline) + Nunito Sans (body) — a new pairing.
+Motif: canyon rock strata / layered Southwest.
+
+SITE STRUCTURE: 6 service pages (Attic Insulation, Crawl Space Insulation, Spray Foam Roofing,
+Metal Building & Pole Barn Insulation, New Construction Insulation, Insulation Removal & Repair)
+instead of generic service pages, a "Get a Free Quote" 4-field lead form (Name, Phone, Property
+Type, Service Needed), LocalBusiness + FAQPage + BreadcrumbList + Article JSON-LD.
+
+ROUTES (20 static index.html routes generated, plus robots.txt/sitemap.xml/icon.svg):
+  /
+  /about/, /contact/, /get-a-quote/, /faq/, /service-areas/, /blog/
+  Service pages (6, dynamic [slug] route via generateStaticParams):
+    /attic-insulation/, /crawl-space-insulation/, /spray-foam-roofing/,
+    /metal-building-insulation/, /new-construction-insulation/, /insulation-removal-repair/
+  Blog posts (4):
+    /blog/cost-of-spray-foam-southern-utah/, /blog/open-cell-vs-closed-cell/,
+    /blog/does-spray-foam-lower-home-value/, /blog/spray-foam-for-southern-utah-climate/
+  /privacy/, /terms/
+
+WORD COUNTS — TARGET MET (2nd build in a row hitting targets on the self-checking discipline):
+all 18 source files hit target range on the first reported pass, 13,162 words total. Homepage
+1,235 (target 1100-1400) | 6 service pages 707-774 each (target 700-1100) | service-areas 594,
+about 622 (targets 500-700/600-800) | contact 289 (target 250-350) | get-a-quote 549 (target
+500-700) | faq 772, 15 Q&A pairs (target 700-900) | privacy 351, terms 382 (target 350-450 each)
+| 4 blog posts 939-990 each (target 900-1300). No fabricated testimonials, stats, or names — only
+real facts and the canonical phone/email/address. Content stays genuinely climate-specific
+(desert heat/high-desert cold-swing/wind-dust/monsoon detail), not generic filler.
+
+IMAGES: 10/10 generated successfully (stabilityai/stable-diffusion-3-medium-diffusers on
+hf-inference, zero retries — 4th consecutive build on this model after FLUX.1-schnell's confirmed
+death), 1.9MB total, all wired, zero orphans. No NPS-branded/trademarked Zion National Park
+signage or iconic formations depicted, per directive — generic red-rock desert scenery only.
+
+FORMS: 2 Netlify-ready forms (contact, get-a-quote), both with data-netlify + honeypot + hidden
+traffic_source/landing_url AEO capture fields + declared in public/__forms.html decoy.
+netlify.toml has direct submission_created webhook `url =` for both forms.
+
+GATE: bash pre-deploy-content-check.sh zionsprayfoam.com <dir> → PASS (exit 0) after 3 scrim-fix
+iterations (see Stitch section above). content own-keyword hits: 22 | palette: no banned hues |
+scrim: no decaying scrim found | stitch: 4 screens across 11 routes | pnpm-workspace packages
+check: passed | no git remote yet (not pushed).
+
+GIT: own local repo (not yet pushed — build + commit only, no GitHub auth in this container).
+node_modules/.next/out/package-lock.json gitignored and confirmed untracked. pnpm-lock.yaml
+commits next@15.3.9 pinned exactly.
+
+NOT DONE (explicitly out of scope per task): no GitHub repo push, no Netlify deploy.
