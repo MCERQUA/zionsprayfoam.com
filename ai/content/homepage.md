@@ -35,6 +35,12 @@ We install both open-cell and closed-cell spray foam, and which one makes sense 
 
 Batt and blown-in insulation are cheaper up front, and for some applications, that's a legitimate reason to choose them. But they're air-permeable by design — they slow conductive heat transfer, but they don't stop air infiltration, which in a climate with southern Utah's temperature swings and dust-laden wind is often where the real energy loss happens. Spray foam costs more to install, but it addresses both problems at once, which is why it tends to pay back its higher upfront cost through lower cooling and heating bills over the life of the building, especially in a climate that stresses insulation in both directions across a single year rather than just one.
 
+There's a durability angle too. Batt insulation can sag, settle, or get compressed over time — especially in attics where storage, foot traffic, or rodent activity disturbs it — which quietly reduces its effective R-value long after installation. Spray foam adheres directly to the surface it's applied to and doesn't sag or settle the same way, so the performance you get on install day is closer to the performance you still get years later. That's a meaningful difference in a region where a lot of homes are decades old and were built to an insulation standard well below what's considered adequate today.
+
+## What a Real Installation Looks Like
+
+A typical job starts with a walkthrough of the space being insulated — attic, crawl space, roofline, or building shell — to confirm square footage, existing insulation condition, and any moisture or ventilation issues that should be addressed before spraying. We protect surrounding surfaces, apply the foam in controlled passes to the correct thickness for the application, and let it cure before anyone re-enters the space. Most residential attic or crawl space jobs are completed in a single day; larger commercial or metal building projects may take longer depending on square footage.
+
 ## Serving Washington County and the Zion Gateway Region
 
 Zion Spray Foam serves St. George, Hurricane, Washington, Springdale, Ivins, Santa Clara, and the greater Cedar City area. See our [Service Areas](/service-areas/) page for the full coverage picture, or just ask when you request a quote — if you're anywhere in the Zion gateway region, we can very likely get to you.
