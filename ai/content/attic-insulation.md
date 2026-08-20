@@ -24,6 +24,10 @@ Most residential attic jobs are completed in a single day. We'll protect surroun
 
 A few reliable signs it's time to look at attic insulation: noticeably hot upstairs rooms in summer that never quite cool down even with the AC running, visibly thin, compressed, or disturbed batt insulation when you look into the attic, unusually high summer cooling bills relative to home size, and dust accumulation in the attic that suggests outside air is finding its way in. None of these are dramatic on their own, but together they're a strong signal that the attic is underperforming.
 
+## Energy Bill Impact
+
+Attic insulation upgrades are consistently one of the highest-return improvements a homeowner can make in this climate, since the attic is the single largest surface exposed to direct summer sun and winter radiational cooling. Homeowners who upgrade from thin or degraded batt insulation to properly installed spray foam typically notice a real difference in how evenly their upstairs rooms hold temperature, not just a lower bill at the end of the month.
+
 ## FAQ
 
 **How much R-value does spray foam attic insulation provide?**
