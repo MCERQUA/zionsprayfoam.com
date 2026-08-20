@@ -24,6 +24,10 @@ Roofline projects require careful attention to ventilation requirements and loca
 
 This service fits homes with vaulted or cathedral ceilings and no traditional flat attic, homeowners converting a vented attic to a conditioned one (often alongside relocating or better-insulating HVAC equipment), and anyone whose roof assembly needs both insulation and an added moisture barrier. If your home has a standard flat attic floor with room to insulate horizontally, our [Attic Insulation](/attic-insulation/) service is usually the more cost-effective option — we'll tell you honestly which one fits your specific roof.
 
+## Monsoon Season and Roof Durability
+
+Southern Utah's summer monsoon pattern brings short, intense downpours that stress roof seams and penetrations differently than the slow, steady rain more common in wetter climates. A continuously sealed closed-cell foam roof application resists water intrusion at the seams and fastener penetrations that are typically the weak points in an older or aging roof assembly, adding a layer of protection alongside the insulation value itself.
+
 ## FAQ
 
 **Do I need roofline insulation, or is attic-floor insulation enough?**
