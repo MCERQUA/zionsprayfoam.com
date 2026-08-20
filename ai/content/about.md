@@ -20,6 +20,10 @@ We carry the licensing and insurance appropriate for residential and commercial 
 
 Our work spans single-family homes, new-construction builds working directly with area builders, metal shops and pole barns common throughout the region's more rural and agricultural areas, and commercial buildings. That range means we see a lot of different insulation problems and applications, which shapes how we approach every new project — we're not applying residential-attic assumptions to a metal building job, or vice versa.
 
+## Understanding the Difference Between Products
+
+Not every spray foam job is the same, and we don't treat it that way. Open-cell and closed-cell foam behave differently, cost differently, and fit different applications — an attic doesn't need the same product as a metal building roof, and a crawl space with a moisture history needs a different approach than a dry, well-ventilated one. Part of what we do on every project is match the right product to the right application, rather than defaulting to one system across every job because it's simpler to quote.
+
 ## Our Approach to Quoting
 
 We don't do sight-unseen quotes for anything beyond the most straightforward jobs, and we don't recommend removal or repair work on properties that don't actually need it. A quote from us reflects an honest look at your specific space — square footage, existing insulation condition, moisture or ventilation issues, and what you're actually trying to solve — rather than a generic per-square-foot number that ignores the details that actually drive cost and outcome.

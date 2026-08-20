@@ -30,9 +30,17 @@ Fill out the form below, or call 844-967-5247 directly.
    - Removal / Repair
    - Not Sure Yet
 
+## Residential, Commercial, and Everything In Between
+
+Whether you're a homeowner dealing with a hot upstairs room, a builder coordinating insulation for a new-construction project, or a property owner with a metal shop that's sweating condensation onto stored equipment, the quote process starts the same way — tell us what you're working with, and we'll follow up with next steps specific to your project type. Commercial and multi-property requests are welcome too; let us know the scope and we'll coordinate accordingly.
+
 ## No Sight-Unseen Pricing on Larger Projects
 
 We're upfront that a straightforward attic or crawl space quote can often be handled over the phone or with a few photos, but larger, more complex, or removal/repair projects need an in-person look before we commit to a number — guessing at scope on a project with unknown moisture damage or existing insulation condition doesn't do either of us any favors. We'll tell you plainly which category your project falls into once we know more about it.
+
+## Timing and Scheduling
+
+Scheduling varies by season and project type — attic and crawl space work generally has shorter lead times than larger commercial or metal building projects, and demand tends to pick up heading into summer as homeowners look to address hot upstairs rooms before peak heat arrives. If you have a specific timeline in mind, let us know when you request a quote and we'll do what we can to work around it.
 
 ## Trust Note
 
