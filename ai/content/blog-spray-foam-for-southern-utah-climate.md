@@ -28,6 +28,14 @@ The region's agricultural and rural character means a meaningful number of local
 
 For builders and homeowners building new in the growing St. George and Washington County market, spray foam's climate advantages are easiest to capture from the start, when framing is fully open and every cavity is accessible. Retrofitting later works too, but new construction removes the access constraints that add time and cost to a retrofit project, and it's the point at which decisions like vented-vs-conditioned attic design are easiest to make correctly.
 
+## Elevation Differences Across the Service Area
+
+The Zion gateway region covers a real range of elevations, and that range affects insulation needs more than people expect. St. George sits at a lower elevation with milder winters, while areas toward Cedar City sit meaningfully higher and see colder, longer winters with real snow accumulation some years. A single insulation specification that works well in St. George isn't automatically the right call at higher elevation — we account for where in the region a property actually sits when recommending foam type and thickness, rather than applying one regional default everywhere.
+
+## How This Compares to Insulating in a Milder Climate
+
+In a climate with mild summers and mild winters, the case for spray foam over cheaper batt insulation is a closer call — the performance gap matters less when neither season stresses the building envelope heavily. Southern Utah doesn't have that luxury in either direction, which is exactly why the math tends to favor spray foam here more clearly than it would in a more temperate part of the country: the insulation is doing real work against real extremes for a much larger share of the year.
+
 ## What This Means for a Typical Homeowner
 
 In practical terms: a properly insulated home in this climate should hold a more even temperature through the day (not just cool quickly and then reheat), show lower energy bills across both summer and winter rather than just one season, and show noticeably less dust infiltration in the attic or crawl space over time. If your home doesn't show those characteristics, the insulation and air-sealing system is likely underperforming for the climate it's actually in.

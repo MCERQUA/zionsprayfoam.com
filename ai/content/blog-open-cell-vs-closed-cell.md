@@ -28,6 +28,14 @@ Closed-cell foam costs more per square foot than open-cell, largely because it r
 
 Open-cell foam's more flexible, less dense structure actually makes it a better sound dampener than closed-cell foam in many applications — a detail that matters for interior wall applications in new construction, or metal buildings where noise from rain and wind is a real comfort issue. If sound control matters as much as thermal performance for your project, that's worth discussing specifically.
 
+## Vapor Permeability and Wall Assembly Design
+
+Beyond attics and crawl spaces, foam type matters for interior and exterior wall assemblies too. Open-cell foam is vapor-permeable, meaning moisture vapor can pass through it — which sounds like a downside but is actually the correct behavior for certain wall assembly designs that rely on vapor being able to dry toward one side. Closed-cell foam acts as its own vapor barrier, which is the right call in assemblies designed around stopping vapor movement entirely, like many below-grade or exterior-sheathing applications. Getting this wrong — using a vapor-impermeable product in an assembly designed to dry, or vice versa — can create moisture problems inside a wall that aren't visible until they've caused real damage, which is why wall-assembly foam decisions should account for the whole system, not just the insulation layer in isolation.
+
+## Weight and Structural Load Considerations
+
+Closed-cell foam is significantly heavier than open-cell foam per unit of coverage, which occasionally matters for structural applications — a roof deck being converted to a conditioned assembly, for example, needs to be able to support the added weight of a thick closed-cell application, something worth confirming for older structures rather than assuming it's a non-issue. Open-cell foam's lighter weight makes it the more forgiving choice when structural load is a genuine concern.
+
 ## How We Decide Which One Fits Your Project
 
 We match foam type to application, not the other way around. Attics typically call for open-cell unless there's a specific reason for closed-cell (like very limited cavity depth). Crawl spaces, roofline applications, and metal buildings typically call for closed-cell because of the added moisture resistance and rigidity. New construction sometimes uses a hybrid approach — closed-cell where moisture resistance matters most, open-cell elsewhere. We'll walk through the reasoning for your specific project rather than defaulting to whichever product is easiest to quote.

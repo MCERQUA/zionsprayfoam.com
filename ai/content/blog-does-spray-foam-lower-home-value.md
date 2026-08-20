@@ -28,6 +28,14 @@ The one area where spray foam has a legitimate, documented history of causing pr
 
 A few things protect you: working with an installer who assesses moisture and ventilation conditions before spraying rather than treating every job identically, making sure roofline or unvented attic applications are properly detailed for your local climate and code, and keeping documentation of what was installed, when, and by whom — which is useful both for warranty purposes and for a future buyer's peace of mind.
 
+## Lender and Insurance Perspectives
+
+Some homeowners worry that mortgage lenders or homeowners insurance carriers view spray foam negatively — in practice, this isn't a widespread issue for properly installed foam. Lenders and insurers are generally concerned with the same things an appraiser is: evidence of moisture damage, structural issues, or code violations, not the presence of spray foam as a category. If a specific lender or insurer does have a question about your insulation, documentation of proper installation (who installed it, when, and to what specification) is usually sufficient to resolve it.
+
+## A Note on DIY and Uncertified Installation
+
+A meaningful share of the poor-installation cases that drive the "lowers home value" concern trace back to DIY spray foam kits or installers without proper training and equipment. Professional-grade spray foam installation requires correct proportioning of the two-part chemical mixture, controlled application thickness, and an understanding of when an application calls for closed-cell versus open-cell — mistakes in any of those areas are far more likely with DIY kits or inexperienced installers than with a licensed, experienced contractor working to a proper specification.
+
 ## What to Tell a Buyer (or Ask a Seller) About Spray Foam
 
 If you're selling a home with spray foam insulation, being able to say when it was installed, by whom, and that it's shown no signs of moisture or performance issues addresses the concern directly. If you're buying a home with existing spray foam, asking those same questions — and having an inspector specifically look for the warning signs described above — is a reasonable, standard step, not a reason to walk away from an otherwise good property.
