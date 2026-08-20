@@ -1,5 +1,9 @@
-
+node_modules/
+.next/
+out/
+package-lock.json
+.env*
 deploy_key
 deploy_key.pub
-
+.pnpm-store/
 .autosave-gated
