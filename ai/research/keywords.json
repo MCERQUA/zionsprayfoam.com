@@ -1,0 +1,33 @@
+{
+  "source": "DataForSEO (direct API, 2026-08-20) — proxy at 172.25.0.1:6350 still unreachable, called api.dataforseo.com directly",
+  "real_business_check": "Per standing practice (established after venardsprayfoam.com): searched 'zion spray foam utah' and 'zion spray foam' scoped to Utah before committing to this angle. NO business named 'Zion Spray Foam' or close variant found operating in Utah — all Utah SERP results are OTHER named competitors (Southern Utah Spray Foam LLC, Big City Insulation, Fox Foam, etc.), not a Zion-branded company. The two real 'Zion'-named spray foam businesses found nationally (Zion Insulators in Richmond/Williamsburg VA; Zion Sprayfoam in Kansas City MO — both flagged and escalated separately) are in unrelated markets with no southern-Utah presence. Cleared to proceed with the Zion National Park / southwestern Utah geographic angle on that basis, per explicit instruction after escalation.",
+  "market_reality_check": "Zion National Park gateway region of southwestern Utah (St. George, Hurricane, Washington, Springdale, Ivins, Santa Clara, Cedar City) is a real, competitive, established spray foam insulation market. SERP for 'spray foam insulation st george utah' surfaces multiple real local competitors: so-utah-sprayfoam.com (Southern Utah Spray Foam LLC, Cedar City), bigcityinsulationutah.com ('50+ Years', Washington & St. George), foxfoam.com (Hurricane, UT), sprayfoamstgeorgeut.com (New Construction & Pole Barn specialist), redknollinsulation.com, idi-insulation.com (wholesale supplier), plus national franchise/aggregator listings (TruTeam/USI Cardalls, Service Partners, BBB, Yelp, Angi). This confirms a real local install-service market, matching the pattern of the existing fleet's other named-place foam sites (tucsonfoam.com, telluridesprayfoam.com).",
+  "keywords": [
+    {"keyword": "spray foam insulation", "search_volume": 90500, "cpc": 4.24, "competition": "HIGH", "use": "background/national head term — not directly targeted, too broad/competitive for a hyperlocal site, informs terminology only"},
+    {"keyword": "closed cell spray foam insulation", "search_volume": 18100, "cpc": 2.87, "competition": "HIGH", "use": "service-type education, homepage/service pages"},
+    {"keyword": "spray foam insulation near me", "search_volume": 12100, "cpc": 17.14, "competition": "MEDIUM", "use": "local-intent, homepage secondary keyword"},
+    {"keyword": "open cell spray foam insulation", "search_volume": 8100, "cpc": 2.26, "competition": "HIGH", "use": "service-type education"},
+    {"keyword": "spray foam insulation cost", "search_volume": 6600, "cpc": 5.99, "competition": "MEDIUM", "use": "FAQ + blog cost-guide post"},
+    {"keyword": "spray foam insulation contractors", "search_volume": 6600, "cpc": 18.76, "competition": "LOW", "use": "homepage primary keyword family — high CPC signals strong commercial intent, LOW competition is a real opportunity"},
+    {"keyword": "attic spray foam insulation", "search_volume": 6600, "cpc": 7.45, "competition": "HIGH", "use": "primary cluster page — Attic Insulation"},
+    {"keyword": "spray foam insulation companies near me", "search_volume": 2400, "cpc": 19.76, "competition": "MEDIUM", "use": "local-intent, homepage"},
+    {"keyword": "crawl space spray foam insulation", "search_volume": 1900, "cpc": 8.64, "competition": "MEDIUM", "use": "primary cluster page — Crawl Space Insulation"},
+    {"keyword": "spray foam roof insulation", "search_volume": 1300, "cpc": 15.41, "competition": "MEDIUM", "use": "primary cluster page — Spray Foam Roofing, highest CPC among cluster-page targets"},
+    {"keyword": "spray foam insulation vs fiberglass", "search_volume": 880, "cpc": 2.63, "competition": "LOW", "use": "blog/comparison content"},
+    {"keyword": "spray foam insulation pros and cons", "search_volume": 590, "cpc": 2.07, "competition": "LOW", "use": "blog content, FAQ"},
+    {"keyword": "spray foam insulation removal", "search_volume": 320, "cpc": 11.55, "competition": "LOW", "use": "primary cluster page — Insulation Removal & Repair, high CPC/low competition opportunity"},
+    {"keyword": "metal building spray foam insulation", "search_volume": 110, "cpc": 3.11, "competition": "HIGH", "use": "primary cluster page — Metal Building & Pole Barn Insulation, matches real competitor sprayfoamstgeorgeut.com's specialty"},
+    {"keyword": "spray foam insulation utah", "search_volume": 50, "cpc": 5.48, "competition": "MEDIUM", "use": "primary state-level keyword"},
+    {"keyword": "attic insulation utah", "search_volume": 50, "cpc": 2.92, "competition": "MEDIUM", "use": "secondary state-level keyword"},
+    {"keyword": "new construction spray foam insulation", "search_volume": 10, "cpc": null, "competition": "MEDIUM", "use": "primary cluster page — New Construction Insulation"},
+    {"keyword": "spray foam insulation st george utah", "search_volume": null, "cpc": null, "competition": null, "use": "hyperlocal — homepage H1/title target despite no measured volume, matches the real competitive SERP found"},
+    {"keyword": "spray foam insulation hurricane utah", "search_volume": null, "cpc": null, "competition": null, "use": "hyperlocal — service area content"},
+    {"keyword": "spray foam insulation washington county utah", "search_volume": null, "cpc": null, "competition": null, "use": "hyperlocal — service area content"},
+    {"keyword": "spray foam insulation cedar city utah", "search_volume": null, "cpc": null, "competition": null, "use": "hyperlocal — service area content"},
+    {"keyword": "closed cell spray foam utah", "search_volume": null, "cpc": null, "competition": null, "use": "service-type + state"}
+  ],
+  "people_also_ask": [
+    "How much does it cost to have spray foam insulation installed?",
+    "Does spray foam insulation lower home value?"
+  ]
+}
