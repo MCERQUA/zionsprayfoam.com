@@ -130,6 +130,28 @@ export default function QuoteForm() {
         </p>
       )}
 
+      <div>
+        <label className="block text-sm font-medium text-ink mb-1">Street Address</label>
+        <input name="street_address" type="text" className="w-full rounded-lg bg-paper border border-ink/15 px-4 py-2.5 text-ink placeholder-inkSoft/50 focus:outline-none focus:ring-2 focus:ring-mountain/30" />
+      </div>
+      <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+        <div>
+          <label className="block text-sm font-medium text-ink mb-1">City</label>
+          <input name="city" type="text" className="w-full rounded-lg bg-paper border border-ink/15 px-4 py-2.5 text-ink placeholder-inkSoft/50 focus:outline-none focus:ring-2 focus:ring-mountain/30" />
+        </div>
+        <div>
+          <label className="block text-sm font-medium text-ink mb-1">State</label>
+          <input name="state" type="text" className="w-full rounded-lg bg-paper border border-ink/15 px-4 py-2.5 text-ink placeholder-inkSoft/50 focus:outline-none focus:ring-2 focus:ring-mountain/30" />
+        </div>
+        <div>
+          <label className="block text-sm font-medium text-ink mb-1">ZIP Code</label>
+          <input name="zip" type="text" className="w-full rounded-lg bg-paper border border-ink/15 px-4 py-2.5 text-ink placeholder-inkSoft/50 focus:outline-none focus:ring-2 focus:ring-mountain/30" />
+        </div>
+      </div>
+      <div>
+        <label className="block text-sm font-medium text-ink mb-1">Email</label>
+        <input name="email" type="email" className="w-full rounded-lg bg-paper border border-ink/15 px-4 py-2.5 text-ink placeholder-inkSoft/50 focus:outline-none focus:ring-2 focus:ring-mountain/30" />
+      </div>
       <button
         type="submit"
         disabled={status === "sending"}
