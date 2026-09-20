@@ -21,6 +21,7 @@ const nunitoSans = Nunito_Sans({
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE.url),
+  alternates: { canonical: "/" },
   title: {
     default: "Spray Foam Insulation for St. George & the Zion National Park Region",
     template: "%s",
