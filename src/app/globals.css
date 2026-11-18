@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 :root {
-  --font-head: "Roboto Slab", serif;
-  --font-body: "Nunito Sans", sans-serif;
+  --font-head: "robotoSlab", serif;
+  --font-body: "nunitoSans", sans-serif;
 }
 
 html {
